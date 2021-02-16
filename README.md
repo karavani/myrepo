@@ -1,2 +1,2 @@
-# myrepo
-git and github test
+# validate-email
+validate email function
